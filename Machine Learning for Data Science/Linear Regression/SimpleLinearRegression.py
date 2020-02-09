@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
 """
-Created on Tue Feb  4 23:41:31 2020
-
 @author: Hasnain
 """
 
